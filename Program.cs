@@ -1,4 +1,6 @@
-﻿namespace homeWork
+﻿
+
+namespace homeWork
 {
     static class Program
     {
